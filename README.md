@@ -7,6 +7,7 @@ This repository contains code supporting the manuscript "Live imaging of airway 
   * 'denoise.ipynb' implements cellpose 3 denoising of ciliary motion movies.
   * 'beatfreq.ipynb' processes ciliary motion movies (denoised or raw), calculating beat frequency of each pixel, collating with reference image data if available, and concatenating output .csv files into more manageable per-experiment .csv files.
   * 'pts_exploration.R' is useful for determining exactly which points correspond to which culture in a given experiment, based on .pts files saved during image acquisition.
+
 *'whole_video_processing' contains code used for processing whole culture movies.
   * 'stitchem5.ijm' stitches raw .dv movie tilescans. It is an imageJ macro. Parameters were optimized for this specific project.
   * 'cv2_circles.ipynb' automatically zeroes out non-culture area pixels.
