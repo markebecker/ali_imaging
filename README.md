@@ -13,3 +13,5 @@ This repository contains code supporting the manuscript "Live imaging of airway 
   * 'piv.ipynb' performs particle image velocitometry on the first channel of fully processed whole culture movies. Used for quantifying cell migration.
   * 'thresholding.ipynb' was used for signal intensity quantification of whole culture movies.
   * 'spots_file_240725.r' was used to collate Trackmate spot detection data derived from fully processed whole culture movies.
+ # Contact
+ If you have any questions, reach out to the corresponding author Thomas Hope at thope@northwestern.edu or the author of this repository Mark Becker at mbecker@u.northwestern.edu.
