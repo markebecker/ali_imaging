@@ -14,10 +14,10 @@ This repository contains code supporting the manuscript "Live imaging of airway 
   * 'thresholding.ipynb' was used for signal intensity quantification of whole culture movies.
   * 'spots_file_240725.r' was used to collate Trackmate spot detection data derived from fully processed whole culture movies.
 * 'data' contains data that were small enough to be uploaded here, not in the dryad repository.
- * 'exptlog_iii.csv' is annotations & some measurements (piv, thresholding for gfp and spy650-tubulin, qPCR at 120 hpi, etc) for each live imaged culture.
- * 'hunting_ii.csv' is single cell tracking notes. 'venus_omicron_survival.csv' is as well, for cultures infected with those reporters.
- * Anything with 'qpcr' in the name is N concentration in apical rinsate.
- * '240702_goodspots.csv' is collated spot detection data from live imaged cultures.
- * 'raw_qpcrdata' contains unprocessed data files for each run.
+  * 'exptlog_iii.csv' is annotations & some measurements (piv, thresholding for gfp and spy650-tubulin, qPCR at 120 hpi, etc) for each live imaged culture.
+  * 'hunting_ii.csv' is single cell tracking notes. 'venus_omicron_survival.csv' is as well, for cultures infected with those reporters.
+  * Anything with 'qpcr' in the name is N concentration in apical rinsate.
+  * '240702_goodspots.csv' is collated spot detection data from live imaged cultures.
+  * 'raw_qpcrdata' contains unprocessed data files for each run.
  # Contact
  If you have any questions, reach out to the corresponding author Thomas Hope at thope@northwestern.edu or the author of this repository Mark Becker at mbecker@u.northwestern.edu.
